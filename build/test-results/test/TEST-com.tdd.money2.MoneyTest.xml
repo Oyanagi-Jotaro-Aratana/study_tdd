@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pilgrim.tdd.money2.MoneyTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-01-12T08:19:26" hostname="B952733.local" time="0.024">
+<testsuite name="com.tdd.money2.MoneyTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-01-12T08:24:29" hostname="B952733.local" time="0.019">
   <properties/>
-  <testcase name="testMultiplication()" classname="com.pilgrim.tdd.money2.MoneyTest" time="0.024">
+  <testcase name="testMultiplication()" classname="com.tdd.money2.MoneyTest" time="0.019">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;10&gt; but was: &lt;0&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;10&gt; but was: &lt;0&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
 	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
 	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
 	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:527)
-	at com.pilgrim.tdd.money2.MoneyTest.testMultiplication(MoneyTest.java:13)
+	at com.tdd.money2.MoneyTest.testMultiplication(MoneyTest.java:13)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

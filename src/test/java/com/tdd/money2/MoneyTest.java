@@ -1,4 +1,4 @@
-package com.pilgrim.tdd.money2;
+package com.tdd.money2;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
