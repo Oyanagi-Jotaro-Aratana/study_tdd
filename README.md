@@ -1,1 +1,3 @@
-# study_tdd
+# 実行方法
+
+./gradlew test
